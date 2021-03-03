@@ -1,10 +1,15 @@
 ### Sopan Sagorkar 👋
 
+<a href="https://github.com/sopansagorkar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sopansagorkar&show_icons=true&theme=merko&count_private=true" alt="sopansagorkar's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopansagorkar&theme=merko&layout=compact" alt="sopansagorkar's github top languages" />
+</a>
 <img align='right' src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="200">
 
 [![Twitter Badge](https://img.shields.io/badge/-@PsycoSopan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PsycoSopan)](https://twitter.com/PsycoSopan) [![Linkedin Badge](https://img.shields.io/badge/-sopansagorkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sopan-sagorkar-387349a0/)](https://www.linkedin.com/in/sopan-sagorkar-387349a0/) 
 [![Gmail Badge](https://img.shields.io/badge/-sagorkars@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sagorkars@gmail.com)](sagorkars@gmail.com)
 [![Docker Badge](https://img.shields.io/badge/Docker-Docker%20Hub-orange)](https://hub.docker.com/u/sopansagorkar)
+
 
 ---
 ## Hi Namaste👋
@@ -35,3 +40,5 @@ def 6YearsOfIT(self):
     
 self.6YearsOfIT()
 ```
+
+
