@@ -1,5 +1,9 @@
 ### Sopan Sagorkar 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sopansagorkar&label=Profile%20views&color=0e75b6&style=flat-square" alt="sopansagorkar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sopansagorkar" alt="sopansagorkar" /></a> </p>
+
 <a href="https://github.com/sopansagorkar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sopansagorkar&show_icons=true&theme=graywhite&count_private=true" alt="sopansagorkar's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopansagorkar&theme=graywhite&layout=compact" alt="sopansagorkar's github top languages" />
