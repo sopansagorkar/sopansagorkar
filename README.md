@@ -31,9 +31,9 @@ Automation (noun): The act or process of converting the controlling of a machine
 
 ```
 def 7YearsOfIT(self):
-    year = 7
+    year = 8
     prevWorkDone = 0
-    while(year<8):
+    while(year<9):
         workDone = int(input())
         if workDone>prevWorkDone:
            print("Keep it Up!")
@@ -42,7 +42,7 @@ def 7YearsOfIT(self):
         prevWorkDone = workDone 
     print("Happy Testing!")
     
-self.7YearsOfIT()
+self.8YearsOfIT()
 ```
 
 
