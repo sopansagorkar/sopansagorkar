@@ -30,7 +30,7 @@ Automation (noun): The act or process of converting the controlling of a machine
 - ⚡ Fun fact: I talk less. I am a chill person with great humor and can give you life advice as well.
 
 ```
-def 7YearsOfIT(self):
+def 8YearsOfIT(self):
     year = 8
     prevWorkDone = 0
     while(year<9):
