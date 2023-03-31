@@ -5,7 +5,7 @@
 </p>
 <a href="https://github.com/sopansagorkar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sopansagorkar&show_icons=true&theme=graywhite&count_private=true" alt="sopansagorkar's github stats" />
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sopansagorkar&theme=dark&layout=compact&hide=html" alt="Sopan's GitHub Streak" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=sopansagorkar&theme=transparent&hide_border=true&border_radius=3.2&type=png" alt="Sopan's GitHub Streak" />
 </a>
 <img align='right' src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="200">
 
