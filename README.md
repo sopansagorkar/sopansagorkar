@@ -17,7 +17,7 @@
 ---
 ## Hi Namaste <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ---
-I am Sopan Sagorkar, a Senior Test Automation Engineer passionate about Automation Testing. 
+I am Sopan Sagorkar, a Lead Test Automation Engineer passionate about Automation Testing. 
 
 ```
 Automation (noun): The act or process of converting the controlling of a machine or device to a more automatic system.
