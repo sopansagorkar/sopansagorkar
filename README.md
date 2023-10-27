@@ -43,5 +43,5 @@ def 9YearsOfIT(self):
     
 self.9YearsOfIT()
 ```
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=sopansagorkar&theme=transparent&hide_border=true&border_radius=3.2&type=png" alt="Sopan's GitHub Streak" />
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=sopansagorkar&theme=transparent&hide_border=true&border_radius=3.2&type=svg" alt="Sopan's GitHub Streak" />
 
