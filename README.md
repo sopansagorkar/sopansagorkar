@@ -22,7 +22,7 @@ I am Sopan Sagorkar, a Lead Test Automation Engineer passionate about Automation
 ```
 Automation (noun): The act or process of converting the controlling of a machine or device to a more automatic system.
 ```
-- :computer: I code in Java.
+- :computer: I code in Java and JavaScript.
 - 🌱 I’m currently learning Mobile App Automation and DevOps.
 - 👯 I’m looking for different ways of Automation Process.
 - 💬 Ask me about anything. If I didn't know maybe I will learn something new!
