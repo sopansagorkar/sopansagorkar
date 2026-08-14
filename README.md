@@ -3,15 +3,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sopansagorkar" alt="sopansagorkar" /></a> 
 <img src="https://github.com/sopansagorkar/sopansagorkar.github.io/blob/master/qrcode_sopansagorkar.github.io.png"  width="120px">
 </p>
-<a href="https://github.com/sopansagorkar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sopansagorkar&show_icons=true&theme=graywhite&count_private=true" alt="sopansagorkar's github stats" />
-</a>
+
+[![sopansagorkar's github stats](https://github-readme-stats.vercel.app/api?username=sopansagorkar&show_icons=true&theme=graywhite&count_private=true)](https://github.com/sopansagorkar)
+
 <br>
 <br>
 <img align='right' src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="200">
 
-[![Twitter Badge](https://img.shields.io/badge/-@PsycoSopan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PsycoSopan)](https://twitter.com/PsycoSopan) [![Linkedin Badge](https://img.shields.io/badge/-sopansagorkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sopan-sagorkar-387349a0/)](https://www.linkedin.com/in/sopan-sagorkar-387349a0/) 
-[![Gmail Badge](https://img.shields.io/badge/-sagorkars@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sagorkars@gmail.com)](sagorkars@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@PsycoSopan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PsycoSopan)](https://twitter.com/PsycoSopan)
+[![Gmail Badge](https://img.shields.io/badge/-sagorkars@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sagorkars@gmail)](mailto:sagorkars@gmail)
 [![Docker Badge](https://img.shields.io/badge/Docker-Docker%20Hub-orange)](https://hub.docker.com/u/sopansagorkar)
 
 ---
