@@ -1,11 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sopansagorkar&label=Profile%20views&color=0e75b6&style=flat-square" alt="sopansagorkar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sopansagorkar" alt="sopansagorkar" /></a> 
 <img src="https://github.com/sopansagorkar/sopansagorkar.github.io/blob/master/qrcode_sopansagorkar.github.io.png"  width="120px">
 </p>
 
-[![sopansagorkar's github stats](https://github-readme-stats.vercel.app/api?username=sopansagorkar&show_icons=true&theme=graywhite&count_private=true)](https://github.com/sopansagorkar)
-
+![Sopan's GitHub Stats](https://github-readme-stats-faisal.vercel.app/api?username=sopansagorkar&show_icons=true&theme=light)
+  
+![Top Langs](https://github-readme-stats-faisal.vercel.app/api/top-langs/?username=sopansagorkar&hide=scss,css,html&theme=light&layout=compact)
 <br>
 <br>
 <img align='right' src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="200">
