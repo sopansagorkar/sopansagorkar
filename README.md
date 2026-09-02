@@ -56,5 +56,7 @@ self.12YearsOfIT()
 
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=sopansagorkar" alt="Sopan's GitHub streak" />
+</br>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sopansagorkar/sopansagorkar/output/github-contribution-grid-snake.svg?v=1">
 </div>
 
